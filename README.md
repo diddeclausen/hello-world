@@ -1,3 +1,3 @@
 # hello-world
-This is my PRATICE repository.
+This is my TEST and PRACTICE repository.
 I am looking forward to learning more.
